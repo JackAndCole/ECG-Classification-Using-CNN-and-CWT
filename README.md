@@ -1,4 +1,4 @@
-# Code for: Automatic-ECG-Classification-Using-Convolutional-Neural-Network-and-Continuous-Wavelet-Transform
+# Code for: Automatic ECG Classification Using Convolutional Neural Network and Continuous Wavelet Transform
 ## Dataset
 
 [MIT-BIH Arrhythmia database](https://www.physionet.org/content/mitdb/1.0.0/)
