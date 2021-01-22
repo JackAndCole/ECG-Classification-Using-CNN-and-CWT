@@ -17,7 +17,9 @@
 
 ## Cite
 
-The paper is submitted to the journal for review. 
+If our work is helpful to you, please cite:
+
+Wang, T.; Lu, C.; Sun, Y.; Yang, M.; Liu, C.; Ou, C. Automatic ECG Classification Using Continuous Wavelet Transform and Convolutional Neural Network. Entropy 2021, 23, 119. https://doi.org/10.3390/e23010119
 
 ## Email:
 
